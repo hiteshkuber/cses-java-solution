@@ -42,7 +42,7 @@
 - [Collecting Numbers](https://cses.fi/problemset/task/2216)
 - [Collecting Numbers II](https://cses.fi/problemset/task/2217)
 - [Playlist](https://cses.fi/problemset/task/1141)
-- [Towers](https://cses.fi/problemset/task/1073)
+- [Towers](https://cses.fi/problemset/task/1073) -- [Solution](https://github.com/hiteshkuber/cses-java-solution/blob/main/sorting-and-searching/Towers.java)
 - [Traffic Lights](https://cses.fi/problemset/task/1163)
 - [Distinct Values Subarrays](https://cses.fi/problemset/task/3420)
 - [Distinct Values Subsequences](https://cses.fi/problemset/task/3421)
